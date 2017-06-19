@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  
 hai
 
@@ -5,3 +6,6 @@ hai
 hello
 everyone
 
+=======
+vfdh
+>>>>>>> 016ba0b5387fcb1a29c923866582e707b5537a67
